@@ -6,6 +6,6 @@ scikit-learn
 scipy
 folium
 streamlit-folium
-google-cloud-bigquerys
+google-cloud-bigquery
 db-dtypes
 pyarrow
