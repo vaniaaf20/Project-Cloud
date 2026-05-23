@@ -413,7 +413,7 @@ if len(df) == 0:
 # ─────────────────────────────────────────────
 # HEADER — foto jadi background penuh, judul di kiri
 # ─────────────────────────────────────────────
-FOTO_PATH = r"D:\Kuliah\Semester 6\Analisis Data Berbasis Cloud\Project\taxi chicago.jpeg"
+FOTO_PATH = "taxi chicago.jpeg"
 
 if os.path.exists(FOTO_PATH):
     import base64
